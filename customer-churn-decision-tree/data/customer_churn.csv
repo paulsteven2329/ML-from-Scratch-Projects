@@ -1,0 +1,11 @@
+Age,Tenure,MonthlyCharges,SupportCalls,ContractType,Churn
+25,3,70,4,Month-to-month,Yes
+45,24,55,1,One year,No
+32,12,90,3,Month-to-month,Yes
+60,48,40,0,Two year,No
+29,6,85,5,Month-to-month,Yes
+52,36,60,1,One year,No
+41,18,75,2,One year,No
+23,2,95,6,Month-to-month,Yes
+35,10,65,3,Month-to-month,Yes
+58,50,45,0,Two year,No
